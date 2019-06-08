@@ -1,6 +1,7 @@
-package main
+﻿package main
 
-//Author: Sergio Cabrera Cirilo
+//Author: Sergio Cabrera Cirilo 
+//modified today
 import (
 	"bufio"
 	"crypto/md5"
